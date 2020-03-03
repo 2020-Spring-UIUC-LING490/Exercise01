@@ -16,4 +16,4 @@ Your task is to correctly implement the kaNpat exercise and the Southern Brazili
 * Your file should contain ``define`` rules for each of the orthographic to pronunciation alternations described in the text.
 * You must provide a comment line (beginning with ``#``) for each rule describing what the rule is meant to do.
 * The final line of your file should be a single ``re`` regular expression that composes the rules together in the proper order.
-* You can test your implementation by running ``make kaNpat.test`` from this directory
+* You can test your implementation by running ``make port-pronun.test`` from this directory
